@@ -1,3 +1,4 @@
+#tải dataset file best.pt để detect
 import gdown
 
 FOLDER_URL = "https://drive.google.com/drive/folders/PASTE_FOLDER_ID_HERE?usp=sharing"
