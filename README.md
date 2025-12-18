@@ -29,9 +29,9 @@ Forest/
 │── test/                 # Ảnh + label test
 │
 │── forest.v1i.yolov8/    # Dataset YOLOv8 (version 1)
-│── forest_seg/           # Dataset segmentation
-│── forest_seg_v2/
-│── forest_seg_v3/
+│── forest_seg/           # Dataset segmentation chính
+│── forest_seg_v2/        # Dataset segmentation thử nghiệm để giám loss và tăng mAP
+│── forest_seg_v3/        # Dataset segmentation thử nghiệm để giám loss và tăng mAP
 │
 │── runs/                 # Kết quả train (YOLO auto-generate)
 │── outputs/              # Output inference
