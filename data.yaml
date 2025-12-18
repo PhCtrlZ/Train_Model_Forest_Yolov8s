@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['field', 'forest', 'lake']
+
+roboflow:
+  workspace: phctrlz
+  project: forest-xmktc-2oc1r
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/phctrlz/forest-xmktc-2oc1r/dataset/1
