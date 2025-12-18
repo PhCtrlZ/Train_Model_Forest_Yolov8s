@@ -1,6 +1,6 @@
 #  Train_Model_Forest_YOLOv8s
 
-Dự án này tập trung vào **huấn luyện mô hình YOLOv8s** cho bài toán **Object Detection / Segmentation trong môi trường rừng (Forest)**. Project được xây dựng phục vụ mục đích **nghiên cứu – học tập – NCKH**, sử dụng Python và thư viện Ultralytics YOLOv8.
+Dự án này tập trung vào **huấn luyện mô hình YOLOv8s** cho bài toán **Object Detection / Segmentation trong môi trường rừng (Forest)**.
 
 ---
 
