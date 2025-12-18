@@ -125,22 +125,5 @@ results = model("image.jpg", show=True)
 * Bounding box và segmentation mask bám sát đối tượng
 * Có thể mở rộng cho video real-time
 
----
 
-##  Lưu ý
-
-* Dataset có dung lượng lớn
-* GitHub giới hạn 100MB/file → nên dùng **Git LFS** nếu push đầy đủ ảnh
-* Project phục vụ mục đích **học tập & nghiên cứu**, không dùng sai mục đích
-
----
-
-## Tác giả
-
-* **Hoàng Phúc (PhCtrlZ)**
-* PTIT – Kỹ thuật Điều khiển & Tự động hóa
-
-GitHub: [https://github.com/PhCtrlZ](https://github.com/PhCtrlZ)
-
----
 
